@@ -4,7 +4,7 @@
 
 ⚡️Here are some quick notes about me:
 
-- 🔭 I’m currently working on [HydraLab](https://github.com/microsoft/HydraLab)
+- 🔭 I’m currently working on [HydraLab](https://github.com/microsoft/HydraLab).
 - 🌱 I’m currently learning PyTorch, Reinforcement Learning.
 - ⚡ Fun fact: COVID survivor.
 
