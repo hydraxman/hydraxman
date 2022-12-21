@@ -1,6 +1,6 @@
-### Hey fellow, I'm HydraXMan.
+### Hey fellows, I'm HydraXMan.
 
-**aka 九头蛇正义战士**
+**aka 九头蛇正义战士 or 九战**
 
 Here are some quick notes about me:
 
