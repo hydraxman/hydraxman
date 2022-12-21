@@ -1,7 +1,5 @@
 ### Hey fellows, I'm HydraXMan.
 
-**aka 九头蛇正义战士 or 九战 😂**
-
 ⚡️Here are some quick notes about me:
 
 - 🔭 I’m currently working on [HydraLab](https://github.com/microsoft/HydraLab).
