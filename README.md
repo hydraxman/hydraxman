@@ -1,10 +1,12 @@
-### Hey fellows, I'm HydraXMan.
+### Hey fellows, I'm Nathan Bu.
 
 ⚡️Here are some quick notes about me:
 
-- 🔭 I’m currently working on [HydraLab](https://github.com/microsoft/HydraLab).
+- 🔭 I’m currently working on [HydraLab](https://github.com/microsoft/HydraLab), the next generation open source clouting test infrastructure.
 - 🌱 I’m currently learning PyTorch, Reinforcement Learning.
-- ⚡ Fun fact: COVID survivor.
+- 💼 I'm a Software Engineer Manager in Microsoft, focusing on cross-device experience, Engineering Excellence and test intelligence.
+- ⚡ Fun fact: Did several rounds of talk show in Toastmaster Beijing, own both PS Plus and Xbox Game Pass.
+- 😼 Alias: 风云信步
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hydraxman&show_icons=true&theme=radical" alt="hydraxman" />
   
