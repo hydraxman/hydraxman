@@ -9,5 +9,16 @@
 - 😼 Alias: 风云信步
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hydraxman&show_icons=true&theme=radical" alt="hydraxman" />
-  
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,js,docker,c,cpp,kotlin,md,gradle" />
+</p>  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,vscode,idea,ae,ps,pr,azure" />
+</p> 
+
+<div align='center'>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hydraxman.hydraxman&left_color=green&right_color=red)
+
+</div>
