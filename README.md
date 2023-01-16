@@ -3,7 +3,7 @@
 ⚡️Here are some quick notes about me:
 
 - 🔭 I’m currently working on [HydraLab](https://github.com/microsoft/HydraLab), the next generation open source clouting test infrastructure.
-- 🌱 I’m currently learning PyTorch, Reinforcement Learning.
+- 🌱 I’m on the learning path of PyTorch, Reinforcement Learning, CV, NLP.
 - 💼 I'm a Software Engineer Manager in Microsoft, focusing on cross-device experience, Engineering Excellence and test intelligence.
 - ⚡ Fun fact: Did several rounds of talk show in Toastmaster Beijing, own both PS Plus and Xbox Game Pass.
 - 😼 Alias: 风云信步
