@@ -11,10 +11,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hydraxman&show_icons=true&theme=radical" alt="hydraxman" />
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,js,docker,c,cpp,kotlin,spring,gradle" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,docker,pytorch,cpp,kotlin,spring,gradle" />
 </p>  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,vscode,idea,ae,ps,pr,azure" />
+    <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,vscode,idea,ae,ps,powershell,azure" />
 </p> 
 
 <div align='center'>
