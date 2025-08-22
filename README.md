@@ -8,8 +8,6 @@
 - ⚡ Fun fact: Did several rounds of talk show in Toastmaster Beijing, own both PS Plus and Xbox Game Pass.
 - 😼 Alias: 风云信步, 内森
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hydraxman&show_icons=true&theme=radical" alt="hydraxman" />
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,py,js,docker,pytorch,cpp,kotlin,spring,gradle,materialui" />
 </p>  
